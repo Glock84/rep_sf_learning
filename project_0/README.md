@@ -1,13 +1,13 @@
 # Проект 0. HW-01. Игра: "Угадай число. v3"
 
 ## Оглавление
-[1. Описание проекта](.README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/Glock84/rep_sf_learning/blob/main/project_0/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/Glock84/rep_sf_learning/blob/main/project_0/README.md#Какой-кейс-решаем)
 
-[3. Этапы работы над проектом](.README.md#Этапы=работы-над-проектом)
+[3. Этапы работы над проектом](https://github.com/Glock84/rep_sf_learning/blob/main/project_0/README.md#Этапы=работы-над-проектом)
 
-[4. Результат](.README.md#Результат)
+[4. Результат](https://github.com/Glock84/rep_sf_learning/blob/main/project_0/README.md#Результат)
 
 ### **Описание проекта**
 Угадать загаданное компьютером число за минимальное число попыток.
